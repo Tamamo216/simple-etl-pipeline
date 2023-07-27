@@ -1,0 +1,17 @@
+pandas==1.5.2
+prefect
+prefect-sqlalchemy==0.2.2
+prefect-gcp
+prefect-dask
+google-cloud-storage
+google-cloud-bigquery
+google-cloud-dataproc
+pyspark
+beautifulsoup4
+lxml
+requests
+protobuf==4.21.11
+pyarrow==10.0.1
+pandas-gbq==0.18.1
+psycopg2-binary==2.9.5
+sqlalchemy==1.4.46
